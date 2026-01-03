@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
 </p>
 
@@ -48,12 +48,12 @@
 
 
 ### 🖥 Backend & Database
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
 ### ⚙ Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
