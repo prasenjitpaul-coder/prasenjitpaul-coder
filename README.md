@@ -25,12 +25,26 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=520&lines=Booting+Frontend...;Applying+Tailwind+Classes...;Rendering+Responsive+UI...;Cat+is+Debugging+CSS+%F0%9F%90%B1;Build+Successful+%E2%9C%85"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+    width="320"
+    alt="frontend developer coding animation"
+  />
+</p>
+
+<p align="center">
+  <code>&lt;Cat class="flex items-center justify-center p-4 bg-slate-900 text-cyan-400" /&gt;</code>
+</p>
+
 
 
 ### 🖥 Backend & Database
