@@ -27,10 +27,11 @@
 ### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
-</p>
-<p align="right">
+  <p align="right">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
 </p>
+</p>
+
 
 ### 🖥 Backend & Database
 <p>
