@@ -60,28 +60,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasenjitpaul-coder&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjitpaul-coder&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prasenjitpaul-coder&theme=tokyonight" />
 </p>
 
----
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/prasenjitpaul-coder/prasenjitpaul-coder/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
+
 
 ---
 
