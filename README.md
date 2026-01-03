@@ -25,7 +25,9 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
+</p>
 
 <p align="center">
   <img 
@@ -41,9 +43,7 @@
   />
 </p>
 
-<p align="center">
-  <code>&lt;Cat class="flex items-center justify-center p-4 bg-slate-900 text-cyan-400" /&gt;</code>
-</p>
+
 
 
 
@@ -86,8 +86,6 @@
 
 ## 🚀 Projects
 - 🌐 Node.js Static Website Server
-- 🎬 Anime Streaming App (HiAnime)
-- 🎮 Gaming Content Platforms
 - 📘 DSA in JavaScript (Learning)
 
 ---
