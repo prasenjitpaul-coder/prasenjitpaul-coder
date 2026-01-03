@@ -13,13 +13,6 @@
 
 ---
 
-## 🐱 Coding Cat
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 - 🎓 BCA Student  
 - 🌍 From Assam, India  
@@ -34,6 +27,9 @@
 ### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
+</p>
+<p align="right">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
 </p>
 
 ### 🖥 Backend & Database
