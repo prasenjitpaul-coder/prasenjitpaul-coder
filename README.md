@@ -24,13 +24,30 @@
 
 ## 🛠️ Tech Stack
 
+
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" /> <img 
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" /> 
+  
+  
+</p>
+
+### 🖥 Backend & Database
+<p >
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
+
+### ⚙ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+  
+<p  align="center">
+  <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=520&lines=Booting+Frontend...;Applying+Tailwind+Classes...;Rendering+Responsive+UI...;Cat+is+Debugging+CSS+%F0%9F%90%B1;Build+Successful+%E2%9C%85"
   />
 </p>
-
 
 
 <p align="center">
@@ -39,20 +56,6 @@
     width="320"
     alt="frontend developer coding animation"
   />
-</p>
-
-
-
-
-
-### 🖥 Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-</p>
-
-### ⚙ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
